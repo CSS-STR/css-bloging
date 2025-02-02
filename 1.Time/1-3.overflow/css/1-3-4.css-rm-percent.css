@@ -1,0 +1,23 @@
+.box {
+    background-color: lightcyan;
+    border: 5px solid darkcyan;
+    padding: 10px;
+    margin: 10em 0;
+    width:100%;
+}
+
+.wrapper {
+    max-width:400px;
+    border: 5px solid darkgoldenrod;
+    margin: 0.5em auto;
+}
+
+.px {
+    max-width: 200px;
+    margin: 0.9em auto;
+}
+
+.percent {
+    max-width: 200px;
+    margin: auto;
+}

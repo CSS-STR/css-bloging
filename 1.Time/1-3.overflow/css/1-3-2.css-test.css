@@ -1,0 +1,32 @@
+.box {
+    border: 10px solid bisque;
+    padding :20px;
+    margin: 30px auto;
+    border: 5px solid darkcyan;
+    width: 100%;
+}
+
+.wrapper {
+    width:100%;
+    max-width:1300px;
+    margin: auto;
+    font-size: 0.85rem;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+
+.pink {
+    width:200px;
+    background-color: pink;
+}
+
+.strong {
+    width: 30vw;
+    background-color: aliceblue;
+}
+
+.small {
+    width: 10em;
+    background-color:aqua;
+}
