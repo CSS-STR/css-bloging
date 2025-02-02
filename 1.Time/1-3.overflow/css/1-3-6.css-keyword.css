@@ -1,0 +1,51 @@
+.box {
+    padding: 10px;
+    margin: 0.5em 0;
+    border-radius: 0;
+}
+
+.one {
+    background: antiquewhite;
+}
+
+.tow {
+    background: blueviolet;
+}
+
+.three {
+    background: sandybrown;
+}
+
+.b8 {
+    background-color: #02798b;
+}
+
+.a1 {
+    background-color: #c55da1;
+}
+
+.d7 {
+    background-color: #128a7d;
+}
+
+.r1 {
+   background-color: rgb(2 121 139);
+}
+
+.g1 {
+  background-color: rgb(197 93 161);
+}
+.b1 {
+   background-color: rgb(18 138 125);
+}
+
+.rg1 {
+    background-color: rgb(2 121 139 / 0.3);
+ }
+ 
+ .gg1 {
+   background-color: rgb(197 93 161 / 0.7);
+ }
+ .bg1 {
+    background-color: rgb(18 138 125 / 0.9);
+ }

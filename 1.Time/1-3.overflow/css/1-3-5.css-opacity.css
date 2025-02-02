@@ -1,0 +1,16 @@
+.wrapper {
+    background-image: url(https://tistory1.daumcdn.net/tistory/4378825/attach/efb2b36311654248981530cc8bbf593a);
+    background-repeat: no-repeat;
+    background-position: bottom;
+    padding: 20px;
+    width:100%;
+}
+
+.box {
+    margin: 20px auto;
+    max-width: 150px;
+    background-color: aqua;
+    border: 5px solid darkblue;
+    padding: 10px;
+    opacity: 0.6;
+}
