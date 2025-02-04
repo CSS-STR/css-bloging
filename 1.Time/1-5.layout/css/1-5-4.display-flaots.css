@@ -1,0 +1,13 @@
+.box {
+    float:left;
+    width:100%;
+    max-width: 150px;
+    height: 150px;
+    margin-right: 40px;
+    background:#ffd5cd;
+    border-radius: 40%;
+    text-align: center;
+    line-height: 150px;
+}
+
+ 
