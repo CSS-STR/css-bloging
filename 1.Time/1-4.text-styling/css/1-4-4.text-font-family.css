@@ -1,0 +1,11 @@
+p {
+}
+
+@font-face {
+    font-family: "Bonbon";
+    src: url("fonts/Bonbon-Regular.ttf")
+}
+
+html {
+    font-family: "Bonbon",serif;
+}
